@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Thistle Content Lab"
+theme = "custom"
+
+[params]
+  description = "Content marketing lab: long-form guides, newsletter growth, podcast strategy and thought leadership."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
