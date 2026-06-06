@@ -1,4 +1,9 @@
 ---
+image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop&auto=format&q=80"
+cover:
+  image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop&auto=format&q=80"
+  alt: "cover"
+  relative: false
 title: "Welcome to Thistle Content Lab"
 date: 2026-06-01
 description: "Content marketing lab: long-form guides, newsletter growth, podcast strategy and thought leadership."
